@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Capitan America",
+    "age": 101,
+    "placeOfBirth": "Bruclin",
+    "person_photo": "https://i.pinimg.com/736x/cc/a8/dd/cca8dd6e56f418c9b4c162f11ad82285.jpg"
+  },
+  {
+    "name": "TOR",
+    "age": 1500,
+    "placeOfBirth": "Jotunheim",
+    "person_photo": "https://avatars.mds.yandex.net/i?id=276abad27a8890d9e89a3afbda660c14_l-5347559-images-thumbs&n=13"
+  },
+  {
+    "name": "LOKI",
+    "age": 1053,
+    "placeOfBirth": "Asgard",
+    "person_photo": "https://www.nashe.ru/uploads/photos/1/2020/06/EasA-ALWAAMV7kW.jpeg"
+  }
+]
